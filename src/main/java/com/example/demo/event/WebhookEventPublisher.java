@@ -1,6 +1,6 @@
 package com.example.demo.event;
 
-import com.spg.uccs.configurator.domain.WebhookAction;
+import com.example.demo.enums.WebhookAction;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;
